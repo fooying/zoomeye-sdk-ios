@@ -1,6 +1,6 @@
 # ZoomEye SDK for iOS
 
-ZoomEye SDK written in Swift.
+ZoomEye SDK written in Swift. (Developing...)
 
 ## Features
 
